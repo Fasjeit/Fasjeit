@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/user-stats/Fasjeit?cardType=level&theme=tokyonight&preferLogin=true">
-    <img  alt="Bruno Brito's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Fasjeit?cardType=level&theme=tokyonight&preferLogin=true" />
+    <img  alt="Bruno Brito's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Fasjeit?cardType=github&theme=tokyonight&preferLogin=true" />
   </a>
 </p>
 
